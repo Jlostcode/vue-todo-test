@@ -1,4 +1,4 @@
-# vue-todo
+# vue-todo-test
 
 > A Vue.js project
 
